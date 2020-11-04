@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista de Bichinhos</string>
+    <string name="abrir_drawer">Abrir drawer</string>
+    <string name="fechar_drawer">Fechar drawer</string>
+</resources>

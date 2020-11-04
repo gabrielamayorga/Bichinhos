@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_grafica"
+    app:startDestination="@id/listaDeBichinhoFragment">
+
+    <fragment
+        android:id="@+id/listaDeBichinhoFragment"
+        android:name="com.example.bichinhos.ui.ListaDeBichinhoFragment"
+        android:label="lista_de_bichinhos"
+        tools:layout="@layout/lista_de_bichinhos" >
+        <action
+            android:id="@+id/action_lista_detalhes_bichinho"
+            app:destination="@id/bichinhoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bichinhoFragment"
+        android:name="com.example.bichinhos.ui.BichinhoFragment"
+        android:label="bichinho_fragment"
+        tools:layout="@layout/bichinho_fragment" />
+</navigation>

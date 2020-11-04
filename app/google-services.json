@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534155203069",
+    "firebase_url": "https://bichinhos-2cd94.firebaseio.com",
+    "project_id": "bichinhos-2cd94",
+    "storage_bucket": "bichinhos-2cd94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534155203069:android:55bcedeb905a971f55c994",
+        "android_client_info": {
+          "package_name": "com.example.bichinhos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534155203069-838msoiuioj4gmo0o0bk4f2bf6m2s6r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZCgEbP9ln_3ZlEydtF0VEp-p3nILoEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534155203069-838msoiuioj4gmo0o0bk4f2bf6m2s6r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
